@@ -1,3 +1,5 @@
+[![Modus Create](./images/modus.logo.svg)](https://moduscreate.com)
+
 # ModusCreateOrg GitHub guidelines
 
 This document outlines best practices for hosting public repositories under ModusCreateOrg GitHub organization.
