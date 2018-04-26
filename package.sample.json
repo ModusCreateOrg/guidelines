@@ -1,0 +1,19 @@
+{
+  "name": "modus-awesome",
+  "version": "1.0.0",
+  "description": "Modus Awesome project",
+  "homepage": "https://moduscreate.com/blog/modus-awesome",
+  "author": "Modus Dev <me@moduscreate.com>",
+  "repository": "github:ModusCreateOrg/modus-awesome",
+  "main": "index.js",
+  "license": "MIT",
+  "engines": { "node": ">=8.9.10" },
+  "dependencies": {
+    "node": "10.0.0"
+  },
+  "scripts": {
+    "start": "webpack-dev-server",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
