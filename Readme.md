@@ -10,7 +10,7 @@ Guidelines repository: [https://github.com/ModusCreateOrg/guidelines](https://gi
 
 * Repository should be completely **free of secrets** including API keys, passwords, tokens,..
 * Commit log is to be free of offensive and unprofessional wording
-* All contributors adhere to Modus Create’s Code of Conduct
+* All contributors adhere to Modus Create’s [Code of Conduct](./CODE_OF_CONDUCT.md)
 * Do not publish .npmrc file even if empty
 * Supply with a [.gitignore](./.gitignore) file
 * Start with a private repository for new work that is not a fork of an existing public repository, and only switch it to public at the time of blog publication or other approved release
@@ -33,7 +33,7 @@ Guidelines repository: [https://github.com/ModusCreateOrg/guidelines](https://gi
 * Project adheres to licenses of projects used (e.g. license comments are not stripped out of production bundles)
 * Project follows legal guidelines set by the owners of IP used (e.g. attribution, references, links, etc.)
 * All rights granted should be written in the Readme explicitly or as a reference (to a file in the repo or outside of it, contract reference, or similar).
-* Assets as a result of work for hire (consulting) for Modus clients, or other paid projects, or anything that is not owned by Modus and should not used without IP owner’s written consent
+* Assets as a result of work for hire (consulting) for Modus clients, or other paid projects, or anything that is not owned by Modus and should not be used without IP owner’s written consent
 
 ## Readme.md
 
