@@ -69,7 +69,7 @@ wp-content/plugins/hello.php
 # -------------------------
 # BEGIN Whitelisted Files
 # -------------------------
- 
+
 # track these files, if they exist
 !.gitignore
 !.editorconfig
